@@ -1,0 +1,25 @@
+{
+  "name": "weather-app",
+  "description": null,
+  "version": "0.0.35",
+  "dependencies": {
+    "redux-promise": "0.5.3",
+    "redux": "3.7.2",
+    "react-sparklines": "1.6.0",
+    "react-router": "4.2.0",
+    "react-redux": "5.0.6",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "lodash": "4.17.4",
+    "axios": "0.17.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
